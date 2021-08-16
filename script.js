@@ -63,7 +63,6 @@ function atualizaInterface() {
   }
 }
 
-
 function clicou(value) {
   let elNumero = document.querySelector('.numero.pisca');
   if (elNumero !== null) {
